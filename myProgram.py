@@ -25,7 +25,3 @@ vios.drive()
 
 blueSG = ElectricCar ('4', 5, 150)
 blueSG.drive()
-
-
-
-
